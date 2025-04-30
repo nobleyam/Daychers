@@ -12,7 +12,7 @@ import random
 screen = turtle.Screen()
 screen.setup(height=600, width=600)
 
-out = 550
+out = 400
 
 drawer = turtle.Turtle()
 drawer.hideturtle()
