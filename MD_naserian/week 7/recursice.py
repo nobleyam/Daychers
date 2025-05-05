@@ -33,7 +33,7 @@ def reverse_string(s):
         return s[-1] + reverse_string(s[:-1])
     
 if __name__ == "__main__":
-    print(factorial(5))
+    print(factorial(10))
     print(sum_natural(5))
     print(fibonacci(6))
     print(power(2, 3))
